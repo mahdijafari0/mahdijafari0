@@ -9,7 +9,7 @@
 - 🏢 web developer (Full Stack) in Rouen Normandie
 - 🧰 I build with: `Typescript`, `Next.js`, `Tailwind` ...
 - ⚡ I enjoy film making, guitar, futsal, and lifting weights ...
-- 📫 Reach out to me: hi.mahdi@gmail.com
+- 📫 Reach out to me: hi.mahdii10@gmail.com
 
 <!---
 mahdijafari0/mahdijafari0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
