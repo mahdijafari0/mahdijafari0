@@ -8,7 +8,6 @@
 
 - 🏢 Developer (Full Stack) in Rouen Normandy
 - 🧰 I build with: `GO`, `Typescript`, `Next.js` ...
-- ⚡ I enjoy film making, guitar, futsal, and lifting weights ...
 - 📫 Reach out to me: hi.mahdii10@gmail.com
 
 <!---
