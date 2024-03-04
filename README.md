@@ -7,7 +7,7 @@
 </h6>
 
 - 🏢 Developer (Full Stack) in Rouen
-- 🧰 I build with: `GO`, `Typescript`, `Next.js` ...
+- 🧰 I build with: `GO`, `Typescript` ...
 - 📫 Reach out to me: hi.mahdii10@gmail.com
 
 <!---
